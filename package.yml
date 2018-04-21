@@ -1,9 +1,9 @@
 name       : telepathy-haze
 version    : 0.8.0
-release    : 2
+release    : 3
 source     :
     - http://telepathy.freedesktop.org/releases/telepathy-haze/telepathy-haze-0.8.0.tar.gz : 3e76049c05f2cd5900c5c0c1cfebdf7ae79eec987a599f1090946673c5b8f9c9
-license    : GPL-2.0
+license    : GPL-2.0-only
 component  : network.im
 summary    : Connection manager based on Pidgin’s libpurple, supporting all protocols
     in Pidgin (AIM, ICQ, Yahoo, etc)
