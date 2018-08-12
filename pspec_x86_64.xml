@@ -2,8 +2,8 @@
     <Source>
         <Name>telepathy-haze</Name>
         <Packager>
-            <Name>Joshua Strobl</Name>
-            <Email>joshua@stroblindustries.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
         <License>GPL-2.0-only</License>
         <PartOf>network.im</PartOf>
@@ -21,16 +21,16 @@
         <Files>
             <Path fileType="library">/usr/lib64/telepathy-haze/telepathy-haze</Path>
             <Path fileType="data">/usr/share/dbus-1/services/org.freedesktop.Telepathy.ConnectionManager.haze.service</Path>
-            <Path fileType="man">/usr/share/man</Path>
+            <Path fileType="man">/usr/share/man/man8/telepathy-haze.8</Path>
         </Files>
     </Package>
     <History>
-        <Update release="3">
-            <Date>2018-04-21</Date>
+        <Update release="4">
+            <Date>2018-07-30</Date>
             <Version>0.8.0</Version>
             <Comment>Packaging update</Comment>
-            <Name>Joshua Strobl</Name>
-            <Email>joshua@stroblindustries.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>
